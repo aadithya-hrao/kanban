@@ -29,7 +29,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/kanban-board.git
+   git clone [https://github.com/yourusername/kanban-board.git](https://github.com/aadithya-hrao/kanban)
    cd kanban-board
    ```
 2. Install dependencies:
