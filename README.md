@@ -48,3 +48,4 @@ The application should now be running on [http://localhost:3000](http://localhos
 ## Known Issues
 - Drag and drop finiky
 - search is basic, no filtering
+- minimal styling, looks basic 
